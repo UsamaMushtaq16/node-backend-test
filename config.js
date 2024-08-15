@@ -6,7 +6,6 @@ const config = {
   // environment Variables
   port: process.env.PORT || 5050,
   environment: process.env.ENVIRONMENT,
-  baseURl: process.env.BASE_URL,
 
   // Calendaric Variables
   calendarific_base_url: process.env.CALENDARIFIC_BASE_URL,
